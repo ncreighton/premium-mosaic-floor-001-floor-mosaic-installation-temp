@@ -1,0 +1,2 @@
+# premium-mosaic-floor-001-floor-mosaic-installation-temp
+Tracking tesserae placement, material costs, and installation timelines across your floor mosaic projects is scattered across spreadsheets and notebooks. The Floor Mosaic Installation Template centralizes every detail—from heritage pattern specifications to stone-by-stone documentation—so you never lose track of a single tile again.  This Notion te
